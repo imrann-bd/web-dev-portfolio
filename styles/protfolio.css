@@ -150,3 +150,33 @@ main section {
     color: rgba(117, 117, 117, 1);
     font-size: 16px;
 }
+/* resume styles */
+.resuem-container {
+    display: flex;
+    gap: 40px;
+}
+.resumi-collumn-title {
+    font-size: 30px;
+    color:#474747;
+    font-weight: bold;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+}
+.experience-subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+}
+.experience-des {
+    color: #757575;
+}
+.resume hr {
+    margin-top: 25px;
+}
+.btn-center {
+    text-align: center;
+    margin: 25px 0px;
+}
